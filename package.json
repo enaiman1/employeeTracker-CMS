@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker-cms",
+  "version": "1.0.0",
+  "description": "a content management system that tracks employee",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enaiman1/employeeTracker-CMS.git"
+  },
+  "author": "Eric Naiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enaiman1/employeeTracker-CMS/issues"
+  },
+  "homepage": "https://github.com/enaiman1/employeeTracker-CMS#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.3",
+    "mysql": "^2.17.1"
+  }
+}
